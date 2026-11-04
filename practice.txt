@@ -3,4 +3,4 @@
 변경 내용을 확인한다.
 GitHub에서 원격 파일을 수정했다.
 git pull을 실습한다.
-main에서 공통 작업을 최종 수정했다.
+main과 feature/member의 공통 작업을 통합했다.
